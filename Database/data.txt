@@ -1,0 +1,15 @@
+adasdas;maha;salman;direct
+hehhehehhe;maha;salman;broadcast
+hellllllooooooooooooo;salman;maha;direct
+tttt;sasa;soso;direct
+yyyyy;soso;sese;direct
+sss;fefe;sese;direct
+hello;ali;salman;direct
+hello;ali;salman;direct
+sososoosos;ali;to_all;broadcast
+qwewqfrsa;sasa;sasa;direct
+qwewqfrsa;sasa;sasa;direct
+sasas;sese;sasa;direct
+oppppoooo;sese;to_all;broadcast
+1231231;sasa;sese;direct
+1231231;sasa;sese;direct
